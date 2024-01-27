@@ -1,0 +1,14 @@
+{
+  "name": "app-js-webapi",
+  "version": "1.0.0",
+  "description": "javascript api project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sebastian Puerta Hincapie",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
